@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaDuplamenteLigadaCircular
+comment1.params=
+comment1.target=ListaDuplamenteLigadaCircular()
+comment2.params=conteudo
+comment2.target=void\ adicionarElemento(int)
+comment3.params=conteudo
+comment3.target=void\ removerElemento(int)
+comment4.params=conteudo
+comment4.target=boolean\ possuiElemento(int)
+comment5.params=
+comment5.target=void\ MostrarLista()
+numComments=6
